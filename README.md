@@ -14,9 +14,10 @@ desenvolvidas enquanto Desenvolvedor Full-Stack.</p>
 |    3 | SQL        |
   
 </details>
-<div style="display: inline_block">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdanielsecco)](https://github.com/djdanielsecco/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdanielsecco&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdanielsecco&layout=compact&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="djdanielsecco-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="djdanielsecco-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg">
