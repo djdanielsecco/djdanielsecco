@@ -15,8 +15,9 @@ desenvolvidas enquanto Desenvolvedor Full-Stack.</p>
   
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdanielsecco&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdanielsecco&layout=compact&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdanielsecco&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdanielsecco&count_private=true&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="djdanielsecco-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
