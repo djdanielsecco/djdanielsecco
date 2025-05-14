@@ -11,7 +11,10 @@ desenvolvidas enquanto Desenvolvedor Full-Stack.</p>
 | ---: | ---------- |
 |    1 | Javascript |
 |    2 | Python     |
-|    3 | SQL        |
+|    3 | Type Script|
+|    4 | C++        |
+|    5 | SQL        |
+
   
 </details>
 
@@ -49,9 +52,4 @@ desenvolvidas enquanto Desenvolvedor Full-Stack.</p>
  <a href="https://twitter.com/djdanielsecco" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 
-  <div>
-  <!--    ![Snake animation](https://github.com/artifonn/artifonn/blob/output/github-contribution-grid-snake.svg) -->
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </div>  
 </div>
